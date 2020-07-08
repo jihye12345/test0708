@@ -5,7 +5,8 @@ public class Ga10 {
 
 	public static void main(String{} args) {
 
-		int i;
+		int i = 0;
+		int in = 0;
 		
 
 	}
